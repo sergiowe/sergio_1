@@ -1,10 +1,10 @@
 ## Here is what I'm working on! 👋
 
 - 😄 I'm a Computer Engineer with a Master's Degree in Cybersecurity from the University of Victoria.
-- I program in C++, VBA, HTML nad CSS.
+- 🔭 I program in C++, VBA, HTML nad CSS.
 - 🌱 I’m currently interested in Infrastructure as a Code (IaaC) to prevent misconfiguration threats.
 
-- I live in the Beautiful British Columbia  :)
+- ⚡I live in the Beautiful British Columbia  :)
 <!--
 **sergiowe/sergiowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
